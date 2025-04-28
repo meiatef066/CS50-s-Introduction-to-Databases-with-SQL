@@ -22,11 +22,8 @@ In this project, I built a database-driven application demonstrating the skills 
 It includes:
 - Designing a normalized database schema
 - Writing advanced SQL queries
-- Using Flask (Python) to interact with the database
 - Ensuring security (e.g., preventing SQL Injection)
-
 ---
-
 ## 🛠 Technologies Used
 
 - **SQLite** (Relational Database)
