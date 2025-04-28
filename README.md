@@ -35,5 +35,5 @@ It includes:
 
 | File | Purpose |
 |------|---------|
-| [`project.sql`](./cs50-databases-project/project.sql) | SQL schema and queries |
-| [`README.md`](./cs50-databases-project/README.md) | Project documentation |
+| [`project.sql`](../cs50-databases-project/project.sql) | SQL schema and queries |
+| [`README.md`](../cs50-databases-project/README.md) | Project documentation |
