@@ -36,7 +36,7 @@ It includes:
 | File | Description |
 |------|-------------|
 | [`DESIGN.md`](./cs50-databases-project/DESIGN.md) | Database design document |
-| ![ERD Diagram](./cs50-databases-project/) | Entity-Relationship Diagram (ERD) |
+| [`ERD Diagram`](./cs50-databases-project/erd%20bank.png) | Entity-Relationship Diagram (ERD) |
 | [`queries.sql`](./cs50-databases-project/queries.sql) | SQL queries for the project |
 | [`schema.sql`](./cs50-databases-project/schema.sql) | SQL schema for database setup |
 
@@ -50,7 +50,7 @@ The database schema for this project is designed with the following consideratio
 
 ### Schema Overview
 
-![ERD]((https://github.com/user-attachments/assets/dd8be027-f888-43fb-8d08-9351ab15d92c))
+![ERD](./cs50-databases-project/erd%20bank.png)
 
 The schema includes tables such as:
 - **Users**: Stores user credentials and profiles.
