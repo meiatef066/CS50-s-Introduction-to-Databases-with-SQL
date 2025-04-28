@@ -36,10 +36,10 @@ It includes:
 | File | Description |
 |------|-------------|
 | [`DESIGN.md`](./cs50-databases-project/DESIGN.md) | Database design document |
-| ![ERD Diagram](./cs50-databases-project/erd%20bank.png) | Entity-Relationship Diagram (ERD) |
+| ![ERD Diagram](./cs50-databases-project/) | Entity-Relationship Diagram (ERD) |
 | [`queries.sql`](./cs50-databases-project/queries.sql) | SQL queries for the project |
 | [`schema.sql`](./cs50-databases-project/schema.sql) | SQL schema for database setup |
-| [Demo Video](./cs50-databases-project/screen%20record%20in%20windows%2010%20-%20Search%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202025-02-02%2022-40-40.mp4) | Project demonstration video |
+
 ---
 
 ## 🗂 Database Design
@@ -61,7 +61,7 @@ Refer to the [`schema.sql`](./cs50-databases-project/schema.sql) file for detail
 
 ---
 
-## 📜 Queries
+##  Queries
 
 The `queries.sql` file contains examples of SQL queries demonstrating the interaction with the database. These include:
 - Data retrieval
