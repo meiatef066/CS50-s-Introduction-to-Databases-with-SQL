@@ -33,7 +33,40 @@ It includes:
 
 ## 📂 Project Files
 
-| File | Purpose |
-|------|---------|
-| [`project.sql`](./cs50-databases-project/project.sql) | SQL schema and queries |
-| [`README.md`](./cs50-databases-project/README.md) | Project documentation |
+| File | Description |
+|------|-------------|
+| [`DESIGN.md`](./cs50-databases-project/DESIGN.md) | Database design document |
+| ![ERD Diagram](./cs50-databases-project/erd%20bank.png) | Entity-Relationship Diagram (ERD) |
+| [`queries.sql`](./cs50-databases-project/queries.sql) | SQL queries for the project |
+| [`schema.sql`](./cs50-databases-project/schema.sql) | SQL schema for database setup |
+| [Demo Video](./cs50-databases-project/screen%20record%20in%20windows%2010%20-%20Search%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202025-02-02%2022-40-40.mp4) | Project demonstration video |
+---
+
+## 🗂 Database Design
+
+The database schema for this project is designed with the following considerations:
+- **Normalization**: Tables are structured to reduce redundancy and improve data integrity.
+- **Relationships**: Key relationships between tables are established to ensure accuracy and consistency.
+
+### Schema Overview
+
+![ERD]((https://github.com/user-attachments/assets/dd8be027-f888-43fb-8d08-9351ab15d92c))
+
+The schema includes tables such as:
+- **Users**: Stores user credentials and profiles.
+- **Transactions**: Tracks user transactions.
+- **Accounts**: Manages account details.
+
+Refer to the [`schema.sql`](./cs50-databases-project/schema.sql) file for detailed SQL schema and queries.
+
+---
+
+## 📜 Queries
+
+The `queries.sql` file contains examples of SQL queries demonstrating the interaction with the database. These include:
+- Data retrieval
+- Updates
+- Deletions
+- Aggregations
+
+---
