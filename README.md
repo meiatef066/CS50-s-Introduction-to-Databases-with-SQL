@@ -53,9 +53,31 @@ The database schema for this project is designed with the following consideratio
 ![ERD](./cs50-databases-project/erd%20bank.png)
 
 The schema includes tables such as:
-- **Users**: Stores user credentials and profiles.
-- **Transactions**: Tracks user transactions.
-- **Accounts**: Manages account details.
+### Key Entities
+
+1. **Customer**
+   - Stores customer details such as balance, address, and account information.
+
+2. **Account**
+   - Manages account details like names, phone numbers, and email.
+
+3. **Admin**
+   - Tracks admin roles and permissions.
+
+4. **Employee**
+   - Stores employee data, including job title and salary.
+
+5. **Branch**
+   - Contains information about different branches.
+
+6. **Card**
+   - Tracks customer cards and their statuses.
+
+7. **Transaction**
+   - Stores transaction history, including sender, receiver, and amount.
+
+8. **Logs**
+   - Keeps logs of account actions, IP addresses, and device information.
 
 Refer to the [`schema.sql`](./cs50-databases-project/schema.sql) file for detailed SQL schema and queries.
 
