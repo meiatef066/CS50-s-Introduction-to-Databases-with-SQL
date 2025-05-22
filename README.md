@@ -2,7 +2,7 @@
 
 This repository contains my project for **CS50's Introduction to Databases with SQL** course by Harvard University.
 
-## 📚 About the Course
+## About the Course
 
 [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) is a free course that teaches database fundamentals, SQL programming, and web development with Python and Flask.
 
@@ -31,7 +31,7 @@ It includes:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 | File | Description |
 |------|-------------|
